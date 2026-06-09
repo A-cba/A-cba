@@ -6,7 +6,7 @@
 - 📝 技能：Python / C / Linux / CTF / ML
 - 📂 仓库导航：
   - [CTF WriteUps](链接) — 团队解题记录
-  - [LeetCode Solutions](链接) — 刷题笔记
+  - [LeetCode Solutions](https://github.com/A-cba/leetcode-solutions) — 刷题笔记
   - [AI-Security-Notes](链接) — AI 安全学习笔记
 
 -->
